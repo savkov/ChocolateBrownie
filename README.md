@@ -20,8 +20,9 @@ To make _chocolatebrownie_ your default qtconsole style you need to configure a 
 
 This should create several configuration files. In the qtconsole configuration file
 
->* Linux or OS X: _~/.ipython/profile_default/ipython_qtconsole_config.py_
->* Windows: _%USERPROFILE%\.ipython\profile_default\ipython_qtconsole_config.py (not tested)_
+>Linux or OS X: _~/.ipython/profile_default/ipython_qtconsole_config.py_
+>
+>Windows: _%USERPROFILE%\.ipython\profile_default\ipython_qtconsole_config.py_
 
 ...set the following parameters as shown below:
 

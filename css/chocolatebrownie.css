@@ -1,0 +1,26 @@
+QPlainTextEdit, QTextEdit {
+        background-color: #000000;
+        color: #C1B3D4; /* wandering soul */
+        selection-background-color: #FAC7B4; /* the sun also rises */
+        selection-color: #998B82; /* 328 */
+}
+.error {
+    color: #FFF; /* D55555 i'm not here */
+}
+.in-prompt {
+    color: #e6711d; /* and smile */
+}
+.in-prompt-number {
+    font-weight: bold;
+}
+.out-prompt {
+    color: #C1B3D4; /* wandering soul */
+}
+.out-prompt-number {
+    font-weight: bold;
+}
+/* .inverted is used to highlight selected completion */
+.inverted {
+    background-color: #FAC7B4 ; /* the sun also rises */
+    color: #998B82; /* 328 */
+}

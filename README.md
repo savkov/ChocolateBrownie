@@ -30,6 +30,9 @@ This should create several configuration files. In the qtconsole configuration f
 
 >c.IPythonQtConsoleApp.stylesheet = '\<path to chocolatebrownie.css\>'
 
+##Screenshot
+![screenshot](img/screenshot.png)
+
 
 ##Colors
 Names and HEX codes from [http://www.colourlovers.com/](http://www.colourlovers.com/)

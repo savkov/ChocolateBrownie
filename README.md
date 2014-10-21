@@ -15,7 +15,7 @@ Look for the source folder of pygments by entering the following in IPython:
 
 ```pygments.__file__```
 
-Here is a sample output
+```Here is a sample output
 
 >'/usr/lib/python2.7/dist-packages/pygments/__init__.pyc'
 

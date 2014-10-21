@@ -13,8 +13,8 @@ Look for the source folder of pygments by entering the following in IPython:
 
 ```import pygments```
 
-```pygments.__file__```
-```
+```pygments.__file__ ```
+
 Here is a sample output
 
 >'/usr/lib/python2.7/dist-packages/pygments/__init__.pyc'

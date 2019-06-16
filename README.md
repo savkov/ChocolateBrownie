@@ -3,7 +3,7 @@ ChocolateBrownie
 
 IPython pygment style and stylesheet.
 
-##Installation
+## Installation
 
 Install [pygments](http://pygments.org/) if required
 
@@ -43,13 +43,13 @@ This should create several configuration files. In the qtconsole configuration f
 
 ```c.IPythonQtConsoleApp.stylesheet = '<path to chocolatebrownie.css>'```
 
-##Screenshot
+## Screenshot
 ![screenshot](img/screenshot.png)
 
 
-##Colors
+## Colors
 Names and HEX codes from [http://www.colourlovers.com/](http://www.colourlovers.com/)
 
 
-##TODO
+## TODO
 Add error and stack trace highlighting.
